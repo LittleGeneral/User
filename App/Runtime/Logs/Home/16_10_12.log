@@ -1,0 +1,1680 @@
+[ 2016-10-12T10:20:51+08:00 ] ::1 /code/thinkphp/email/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:33:40+08:00 ] ::1 /code/thinkphp/email/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:36:35+08:00 ] ::1 /code/thinkphp/email/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:37:00+08:00 ] ::1 /code/thinkphp/email/index.php?Index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:41:51+08:00 ] ::1 /code/thinkphp/email/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:41:51+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:44:38+08:00 ] ::1 /code/thinkphp/email/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:44:38+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:46:01+08:00 ] ::1 /code/thinkphp/email/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:46:01+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:46:12+08:00 ] ::1 /code/thinkphp/email/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:46:12+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:46:30+08:00 ] ::1 /code/thinkphp/email/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:46:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:49:20+08:00 ] ::1 /code/thinkphp/email/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T10:49:21+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:49:21+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.19304422940345123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T10:49:22+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.5940079600438622
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:49:22+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.7844138573800059
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:49:23+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.2685897493753453
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:49:23+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.10332742063600175
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:49:24+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.4520571829236628
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:49:24+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.0877013660654179
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:49:25+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.13416762231254797
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:49:26+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.42512591123640886
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:49:27+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.3855615504358605
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:49:29+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.08681630009692276
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:49:29+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.5321516754360299
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:49:34+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:50:38+08:00 ] ::1 /code/thinkphp/email/index.php/Home/User/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:50:38+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:50:39+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.7946681303983407
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:50:39+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.0984659845044602
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:50:41+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:51:09+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.7490564233742024
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:51:10+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.11794001915835561
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:52:02+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:52:05+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T10:52:05+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.9602542830564741
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:52:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:52:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.3799779240675082
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:52:11+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:52:12+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `mi_user` WHERE `email` = 'liuchunxi_8@126.com' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-10-12T10:52:27+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `mi_user` WHERE `email` = 'liuchunxi_8@126.com' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-10-12T10:52:27+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:55:29+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:55:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:55:34+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: msg D:\XAMPP\htdocs\code\thinkphp\email\App\Home\Controller\UserController.class.php 第 83 行.
+
+[ 2016-10-12T10:55:41+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/loginR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0020s ]
+SQL: INSERT INTO `mi_user` (`passwd`,`email`,`account`,`state`,`loginip`,`logintime`,`addtime`) VALUES ('e10adc3949ba59abbe56e057f20f883e','liuchunxi_8@126.com','1476240941','1','0.0.0.0','1476240941','1476240941') [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `mi_user_detail` [ RunTime:0.0020s ]
+SQL: INSERT INTO `mi_user_detail` (`uid`) VALUES ('7') [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `mi_user` WHERE ( account='1476240941' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `mi_user_bank` [ RunTime:0.0020s ]
+SQL: INSERT INTO `mi_user_bank` (`uid`) VALUES ('7') [ RunTime:0.0030s ]
+
+[ 2016-10-12T10:55:41+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:57:42+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:57:42+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T10:58:36+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T10:58:52+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:01:05+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:02:38+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:02:53+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:02:55+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:02:57+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T11:05:02+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:05:08+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:06:16+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:07:30+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:07:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:07:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:07:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:07:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:07:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:07:34+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:07:34+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:08:17+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.27839851496761814
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:08:17+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.5021408038139433
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:09:39+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:09:45+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:09:46+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:09:47+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:09:47+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:09:48+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:09:50+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:09:52+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T11:09:53+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:10:04+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:10:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:10:16+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-12T11:10:21+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:10:27+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:10:48+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:10:50+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-12T11:10:51+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:10:51+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:10:51+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:11:22+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T11:11:23+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:11:24+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:11:28+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:11:28+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:11:35+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:11:37+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `mi_user` WHERE `passwd` = '' AND `state` = 1 AND ( email=' 'or account='' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T11:11:42+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:11:42+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:13:17+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:13:17+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:15:28+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:15:28+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:15:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.9245697185559597
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:15:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.09887617165940088
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:15:51+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:15:51+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:15:53+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.6043377616366753
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:15:54+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.27830365759769515
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:15:54+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.5115835402172807
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:15:54+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.9652412783044638
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:17:01+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:17:01+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:17:10+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:17:33+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:17:35+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-12T11:18:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:18:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:18:13+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:18:58+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-10-12T11:18:58+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:19:11+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:19:11+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:19:26+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:19:26+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:20:44+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:20:44+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:21:02+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:21:02+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:21:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:21:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:21:12+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:layout
+
+[ 2016-10-12T11:22:49+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:22:50+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:layout
+
+[ 2016-10-12T11:22:52+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:22:53+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:22:53+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:22:54+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/layout.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:22:55+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:23:08+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:23:08+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:23:09+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:23:10+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:23:10+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:23:11+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:23:12+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:23:37+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:23:40+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:24:03+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:24:04+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:24:04+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:24:05+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:24:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:24:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:24:08+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:24:09+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:24:13+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:26:09+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:26:09+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:26:47+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `mi_user` WHERE `email` = 'liuchunxi_8@126.com' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T11:26:55+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `mi_user` WHERE `email` = 'liuchunxi_8@163.com' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T11:26:55+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:27:06+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:30:46+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:30:51+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:32:49+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:32:52+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: msg D:\XAMPP\htdocs\code\thinkphp\email\App\Home\Controller\UserController.class.php 第 83 行.
+
+[ 2016-10-12T11:33:03+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/loginR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0030s ]
+SQL: INSERT INTO `mi_user` (`passwd`,`email`,`account`,`state`,`loginip`,`logintime`,`addtime`) VALUES ('e10adc3949ba59abbe56e057f20f883e','liuchunxi_8@163.com','1476243183','1','0.0.0.0','1476243183','1476243183') [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `mi_user_detail` [ RunTime:0.0020s ]
+SQL: INSERT INTO `mi_user_detail` (`uid`) VALUES ('8') [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `mi_user` [ RunTime:0.0010s ]
+SQL: SELECT * FROM `mi_user` WHERE ( account='1476243183' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `mi_user_bank` [ RunTime:0.0020s ]
+SQL: INSERT INTO `mi_user_bank` (`uid`) VALUES ('8') [ RunTime:0.0020s ]
+
+[ 2016-10-12T11:33:03+08:00 ] ::1 /code/thinkphp/email/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:48:22+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T11:48:23+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 1146:Table 'tp_model.model_close' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_close`
+
+[ 2016-10-12T11:49:36+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:38+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:39+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:39+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:41+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.9482558098931609
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:49:41+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.1224238209738634
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:41+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.9005177828655567
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-12T11:49:41+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.21404602215955948
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:42+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.14274190290753364
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:42+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.21351016363528008
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:42+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:46+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:49:51+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:49:51+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:50:33+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:50:33+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:50:33+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:50:34+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:50:56+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:51:11+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `model_user` WHERE `email` = 'liuchunxi_8@163.com' LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [2] stream_socket_client(): php_network_getaddresses: getaddrinfo failed: ��֪������������  D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Vendor\PHPMailer\class.smtp.php 第 278 行.
+NOTIC: [2] stream_socket_client(): unable to connect to ssl://smtp.sina.com:465 (php_network_getaddresses: getaddrinfo failed: ��֪������������ ) D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Vendor\PHPMailer\class.smtp.php 第 278 行.
+
+[ 2016-10-12T11:51:11+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.09606538689380029
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:53:22+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:53:25+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.3234008113155883
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:53:25+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.10321202430152865
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:53:26+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.3497800797096191
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:53:27+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.5238916325631813
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:53:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:53:37+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `model_user` WHERE `email` = 'liuchunxi_8@163.com' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T11:53:52+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `model_user` WHERE `email` = 'liuchunxi_8@163.com' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T11:53:52+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:59:27+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:59:33+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:59:33+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.7861553633937037
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T11:59:38+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T11:59:39+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `model_user` WHERE `email` = 'liuchunxi_8@126.com' LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-10-12T11:59:39+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:25:29+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:25:33+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:25:45+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:25:51+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:25:51+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.40634162028249476
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:25:56+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:25:57+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `model_user` WHERE `email` = 'liuchunxi_8@126.com' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T13:25:57+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:26:17+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: msg D:\XAMPP\htdocs\code\thinkphp\email\App\Home\Controller\UserController.class.php 第 83 行.
+
+[ 2016-10-12T13:26:21+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/loginR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+SQL: INSERT INTO `model_user` (`passwd`,`email`,`account`,`state`,`loginip`,`logintime`,`addtime`) VALUES ('e10adc3949ba59abbe56e057f20f883e','liuchunxi_8@126.com','1476249981','1','0.0.0.0','1476249981','1476249981') [ RunTime:0.0110s ]
+ERR: 1146:Table 'tp_model.model_user_detail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_user_detail`
+ERR: 1146:Table 'tp_model.model_user_detail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_user_detail`
+
+[ 2016-10-12T13:26:36+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/loginR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0030s ]
+SQL: INSERT INTO `model_user` (`passwd`,`email`,`account`,`state`,`loginip`,`logintime`,`addtime`) VALUES ('e10adc3949ba59abbe56e057f20f883e','liuchunxi_8@126.com','1476249996','1','0.0.0.0','1476249996','1476249996') [ RunTime:0.0050s ]
+ERR: 1146:Table 'tp_model.model_user_detail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_user_detail`
+ERR: 1146:Table 'tp_model.model_user_detail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_user_detail`
+
+[ 2016-10-12T13:27:11+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/loginR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0030s ]
+SQL: INSERT INTO `model_user` (`passwd`,`email`,`account`,`state`,`loginip`,`logintime`,`addtime`) VALUES ('e10adc3949ba59abbe56e057f20f883e','liuchunxi_8@126.com','1476250031','1','0.0.0.0','1476250031','1476250031') [ RunTime:0.0030s ]
+ERR: 1146:Table 'tp_model.model_user_detail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_user_detail`
+ERR: 1146:Table 'tp_model.model_user_detail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_user_detail`
+
+[ 2016-10-12T13:27:24+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:27:30+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:27:30+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:27:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:27:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:27:34+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:27:35+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html?0.5986561290650708
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:27:42+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `model_user` WHERE `email` = 'liuchunxi_8@126.com' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T13:27:42+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:28:19+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dopass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: msg D:\XAMPP\htdocs\code\thinkphp\email\App\Home\Controller\UserController.class.php 第 83 行.
+
+[ 2016-10-12T13:28:23+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/loginR
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+SQL: INSERT INTO `model_user` (`passwd`,`email`,`account`,`state`,`loginip`,`logintime`,`addtime`) VALUES ('e10adc3949ba59abbe56e057f20f883e','liuchunxi_8@126.com','1476250103','1','0.0.0.0','1476250103','1476250103') [ RunTime:0.0040s ]
+ERR: 1146:Table 'tp_model.model_user_detail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_user_detail`
+ERR: 1146:Table 'tp_model.model_user_detail' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `model_user_detail`
+
+[ 2016-10-12T13:28:55+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:28:57+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:29:09+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `model_user` WHERE `passwd` = '123456' AND `state` = 1 AND ( email='liuchunxi_8@126.com 'or account='liuchunxi_8@126.com' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T13:29:15+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0030s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `model_user` WHERE `passwd` = '123456' AND `state` = 1 AND ( email='liuchunxi_8@126.com 'or account='liuchunxi_8@126.com' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2016-10-12T13:29:23+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:29:23+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T13:29:25+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:29:26+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:29:40+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `model_user` WHERE `passwd` = '123456' AND `state` = 1 AND ( email='liuchunxi_8@126.com 'or account='liuchunxi_8@126.com' ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T13:30:18+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+NOTIC: [8] Undefined index: validate D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1185 行.
+NOTIC: [8] Undefined index: auto D:\XAMPP\htdocs\code\thinkphp\email\ThinkPHP\Library\Think\Model.class.php 第 1128 行.
+SQL: SELECT * FROM `model_user` WHERE `passwd` = 'e10adc3949ba59abbe56e057f20f883e' AND `state` = 1 AND ( email='liuchunxi_8@126.com 'or account='liuchunxi_8@126.com' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `model_user` SET `sid`='kmn8llksp5nuldueqpmqp2iml0',`loginip`='0.0.0.0',`logintime`='1476250218' WHERE ( id='12' ) [ RunTime:0.0070s ]
+
+[ 2016-10-12T13:30:18+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:38:53+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:38:54+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:38:55+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:38:55+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:38:57+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:39:02+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:39:03+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:39:04+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T13:39:04+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T13:40:24+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T14:29:59+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T14:30:01+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T14:30:01+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T14:30:02+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T14:30:03+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T14:30:05+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T14:30:05+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T14:30:09+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T14:30:27+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-12T14:30:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_y
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T14:30:35+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `model_user` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `model_user` WHERE `email` = 'liuchunxi2_8@163.com' LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-10-12T14:30:35+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/reg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T15:00:33+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T15:01:10+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:index
+
+[ 2016-10-12T15:01:20+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T15:01:46+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 模板不存在:./App/Home/View/User/index.html
+
+[ 2016-10-12T15:02:01+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T15:02:07+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/layout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:layout
+
+[ 2016-10-12T15:02:27+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T15:02:28+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T15:02:29+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-10-12T15:02:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T15:02:31+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T15:02:32+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T15:02:34+08:00 ] ::1 /code/thinkphp/email/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T15:02:35+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T15:02:36+08:00 ] ::1 /code/thinkphp/email/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-10-12T15:16:17+08:00 ] ::1 /code/thinkphp/user/index.php/home/user/register.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-10-12T15:16:17+08:00 ] ::1 /code/thinkphp/user/index.php/home/user/verify_c.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-10-12T15:16:18+08:00 ] ::1 /code/thinkphp/user/index.php/home/index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+

@@ -1,0 +1,28 @@
+﻿<!doctype html>
+<html lang="zh-CN" xml:lang="zh-CN">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta charset="UTF-8" />
+    <title>首页</title>
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
+</head>
+<body>
+    <if condition="$user  eq  'open' ">
+        <div>
+            <a  href="<{:U('User/login')}>">登录</a>
+            <span>|</span>
+            <a  href="<{:U('User/register')}>">注册</a>
+        </div>
+        <else/>
+        <div>
+            <span>
+                欢迎您 ：
+                <{$user}></span>
+                | &nbsp;
+                <a href='__URL__/layout'>退出</a>
+            </span>
+        </div>
+    </if>
+</body>
+</html>
